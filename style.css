@@ -12,3 +12,14 @@ body{
     min-height: 100vh;
     background: red;
 }
+
+.container{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    background: black;
+    padding: 40px 60px;
+}
