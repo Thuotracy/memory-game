@@ -30,3 +30,20 @@ h2{
     text-transform: uppercase;
     letter-spacing: 0.1em;
 }
+
+.reset{
+    padding: 15px 20px;
+    color: red;
+    background: white;
+    border: none;
+    font-size: 1.5em;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    cursor: pointer;
+    font-weight: 600;
+}
+
+.reset:focus{
+    color: white;
+    background: red;
+}
