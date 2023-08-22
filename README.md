@@ -10,7 +10,7 @@ This is a game used to test you memory.
 * JavaScript
 
 ## Live link
-https://thuotracy.github.io/school-website/home.
+https://thuotracy.github.io/memory-game/
 
 ## Support and contact details
 
