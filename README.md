@@ -1,13 +1,12 @@
-## School-website
+## MEMORY GAME
 
 ## Description
 
-This is a school website design
+This is a game used to test you memory.
 
 ## Technologies Used
 * HTML
 * CSS
-* SCSS
 * JavaScript
 
 ## Live link
