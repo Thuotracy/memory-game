@@ -58,6 +58,10 @@ h2{
     perspective: 500px;
 }
 
+.item.boxOpen{
+    transform: rotateY(0deg);
+}
+
 .item{
     position: relative;
     width: 100px;
@@ -77,4 +81,8 @@ h2{
     background: rgb(22, 22, 22);
     transition: 0.25s;
     transform: rotateY(0deg);
+}
+
+.boxOpen::after{
+    transform: rotateY(100deg);
 }
