@@ -69,3 +69,12 @@ h2{
     background: white;
     transition: 0.25s;
 }
+
+.item::after{
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: rgb(22, 22, 22);
+    transition: 0.25s;
+    transform: rotateY(0deg);
+}
