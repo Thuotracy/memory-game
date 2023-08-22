@@ -25,7 +25,6 @@ for ( var i = 0; i<emojis.length; i++){
             }
         },500)
     }
-
     document.querySelector('.game').appendChild(box);
 }
 
